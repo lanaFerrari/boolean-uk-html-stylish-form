@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: linear-gradient(to right, #59bde0, #ca3ef2);
+  margin: 0;
+  padding: 2.5rem;
+}
+.form {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 2rem;
+}
+.center {
+  max-width: 60ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  display: grid;
+  justify-items: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #ff8b9d;
+  font-size: 1.8rem;
+  flood-opacity: 90%;
+}
